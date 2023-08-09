@@ -1,0 +1,106 @@
+{
+    "Mobilität" : [
+    {
+        "Frage": "Was bedeutet ein blauer Aufkleber auf dem Fahrrad",
+        "Richtig": "Gäste des Forschungszentrums dürfen sich diese Räder vom Forschungszentrum  ausleihen",
+        "Falsch1": "Diese Räder gehören der Werksfeuerwehr ",
+        "Falsch2": "Mitarbeiter dürfen diese Räder zu dienstlichen Zwecken auf dem Campus nutzen"
+    }
+    ],
+    "Leitern +\nTritte" : [
+    {
+        "Frage": "Wie schwer darf die Last auf einer Trittleiter maximal sein?",
+        "Richtig": "ca. 7 000 FZJ-Ausweise (mit Plastikhülle)",
+        "Falsch1": "ca. 35 000 FZJ-Ausweise (mit Plastikhülle)",
+        "Falsch2": "ca. 3 000 FZJ-Ausweise (mit Plastikhülle)"
+    }
+    ],
+    "Grüner\nDaumen" : [
+    {
+        "Frage": "Wie bekämpft ein Weingut in Südafrika erfolgreich Pflanzenschädlinge?",
+        "Richtig": "1000 Laufenten werden freigelassen, um die Schnecken zu essen.",
+        "Falsch1": "Es wird eine Weinsorte angebaut, deren Duft Milben fernhält.",
+        "Falsch2": "Rebzikaden werden nachts mit Laserstrahlen verjagt."
+    }
+    ],
+    "Essen" : [
+    {
+        "Frage": "Woraus lässt sich eine Popcornmaschine selber bauen?",
+        "Richtig": "zwei Getränkedosen, ein Messer und drei Teelichter",
+        "Falsch1": "UV-Lampe, Untertasse und zwei Wassergläser",
+        "Falsch2": "Topf, Lockenstab und vier Gummibänder"
+    }
+    ],
+    "Haushalt": [
+    {
+        "Frage": "Mit welchem Hausmittel kann unangenehmer Kühlschrankgeruch beseitigt werden?",
+        "Richtig": "Rolle Toilettenpapier",
+        "Falsch1": "Tasse Pfefferminztee",
+        "Falsch2": "Löffel Zucker"
+    }
+    ],
+    "Ökonomie": [
+    {
+        "Frage": "Es ist ungefähr 222-mal teurer ...?",
+        "Richtig": "Strom aus einer Batterie zu beziehen, anstatt aus der Steckdose",
+        "Falsch1": "Wasser aus dem Supermarkt zu trinken, anstatt aus der Leitung",
+        "Falsch2": "mit Kaminholz zu heizen, anstelle von Fernwärme"
+    }
+    ],
+    "Sicherheit":[
+    {
+        "Frage": "Wie viele Mitarbeiter des IEK-9 braucht es, um Leuchtmittel zu wechseln?",
+        "Richtig": "keinen, dafür ist das IEK-9 nicht zuständig",
+        "Falsch1": "zwei, da einer die Leiter sichern muss",
+        "Falsch2": "drei, da einer die Leiter sichern muss und einer am Notaus-Schalter bereit stehen muss"
+    }
+    ],
+    "Umwelt": [
+    {
+        "Frage": "Wie viele Bäume stehen auf dem Gelände des Forschungszentrum Jülich (Stand 2017)",
+        "Richtig": "ca. 17 000 pro Mitarbeiter",
+        "Falsch1": "ca. 1 700 pro Mitarbeiter",
+        "Falsch2": "ca. 170 000 pro Mitarbeiter"
+    }
+    ],
+    "Jülich": [
+    {
+        "Frage": "Was ist die Jülicher Nachhaltigkeitstour?",
+        "Richtig": "Eine Besichtigung des Forschungszentrums per Rad",
+        "Falsch1": "Eine Antwort des Forschungszentrums auf Greta Thunbergs Proteste",
+        "Falsch2": "Radwanderweg durch/um Jülich mit Stationen zur Nachhaltigkeit"
+    }
+    ],
+    "Gesundheit": [
+    {
+        "Frage": "Was kann bei Herzrasen unternommen werden, um den Puls auf natürliche Weise wieder zu senken?",
+        "Richtig": "tief einatmen und dann gegen die geschlossene Nase ausatmen",
+        "Falsch1": "leicht husten und mit den Fingern gegen die Schläfen drücken",
+        "Falsch2": "mit einem Eiswürfel kurz über den Bauchnabel reiben"
+    }
+    ],
+    "Köln":[
+    {
+        "Frage": "Warum lässt die Stadt Köln neuerdings Laternen und Ampeln an Verkehrsknotenpunkten speziell lackieren?",
+        "Richtig": "damit Aufkleber nicht haften",
+        "Falsch1": "damit Hunde nicht an die Pfeiler pinkeln",
+        "Falsch2": "um Raser zu bremsen"
+    }
+    ],
+    "Bieber fever":[
+    {
+        "Frage": "Wer hat Justin den Bieber gefilmt?",
+        "Richtig": "Rüdiger Reichel",
+        "Falsch1": "Rüdiger Eichel",
+        "Falsch2": "Rüdiger Beichel"
+    }
+    ],
+    "Genies": [
+    {
+        "Frage": "Marie Curie, Linus Pauling, John Bardeen und Frederick Sanger gewannen je zwei Nobelpreise. Wer gewann beide Preise für Naturwissenschaften?",
+        "Richtig": "Marie Curie, John Bardeen und Frederick Sanger",
+        "Falsch1": "Marie Curie und Linus Pauling",
+        "Falsch2": "Marie Curie, John Bardeen und Linus Pauling"
+    }
+    ]
+}

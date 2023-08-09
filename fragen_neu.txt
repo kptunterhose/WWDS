@@ -1,0 +1,107 @@
+{
+    "unser \nKörper": [
+    {
+        "Frage": "Ein warmes Fußbad ...?",
+        "Richtig": "zwischen 38 und 40°C hilft, abends besser einzuschlafen",
+        "Falsch1" : "vor dem Laufen steigert das Durchhaltevermögen um 20 Prozent",
+        "Falsch2": "nach den Hauptmahlzeiten halbiert den Insulinausstoß"
+    }
+    ],
+    "Kreativ": [
+    {
+        "Frage": "Mit einem Heißluftföhn, Kleber und Vinylspray lasst sich ...?",
+        "Richtig": "beschädigtes Kunstleder ausbessern",
+        "Falsch1" : "Porzellangeschirr spülmaschinenfest machen",
+        "Falsch2": "eine durch Kratzer lädierte CD wieder abspielen"
+    }
+    ],
+    "Irrsinn": [
+    {
+        "Frage": "Mehrweggetränkekästen im Handel ...?",
+        "Richtig": "können auch Einwegflaschen enthalten",
+        "Falsch1" : "lassen anhand ihrer Farbe auf den Flascheninhalt schließen",
+        "Falsch2": "können ab 2023 EU-weit zurückgegeben werden"
+    }
+    ],
+    "Gesetze": [
+    {
+        "Frage": "Wird bei einem Leasingfahrzeug der Vertrag aufgrund von Mängeln rückgängig gemacht, ...?",
+        "Richtig": "kann der Leasinggeber eine Nutzungsentschädigung verlangen",
+        "Falsch1" : "darf das Leasingfahrzeug danach als Neuwagen verkauft werden",
+        "Falsch2": "muss der Leasinggeber keine Vertragskosten zurückzahlen"
+    }
+    ],
+    "Essen": [
+    {
+        "Frage": "Das Trockenfleisch >Beef Jerky< ist laut einer 57.000 Lebensmittelprodukte umfassenden Untersuchung ...?",
+        "Richtig": "das umweltschädlichste aller Lebensmittel",
+        "Falsch1" : "am stärksten radioaktiv belastet",
+        "Falsch2": "das einzige Lebensmittel mit dem Wert 0 auf der Scoville-Skala"
+    }
+    ],
+    "Länder": [
+    {
+        "Frage": "Im Slowenischen gibt es ...?",
+        "Richtig": "neben Einzahl und Mehrzahl einen Numerus, der Paariges bezeichnet",
+        "Falsch1" : "ein Satzzeichen, das genutzt wird, um einen Witz zu signalisieren",
+        "Falsch2": "im Alphabet dreimal das >H< mit unterschiedlichen Aussprachen"
+    }
+    ],
+    "Berühmt": [
+    {
+        "Frage": "Was gelang Schauspieler Nicolas Cage 2007 bei einer Auktion?",
+        "Richtig": "Er überbot Leonardo DiCaprio beim Kauf eines Dino-Schädels",
+        "Falsch1" : "Er versteigerte ein Haus, das er kurz darauf günstiger zurückkaufte",
+        "Falsch2": "Er ersteigerte eine Synchronsprecher-Rolle in einem Computerspiel"
+    }
+    ],
+    "Tage": [
+    {
+        "Frage": "Im Volksglauben sollten im Unterschied zu Lostagen an Schwendtagen traditionell ...?",
+        "Richtig": "bestimmte landwirtschaftliche Tätigkeiten unterlassen werden",
+        "Falsch1" : "Reisen beginnen, die zu Fuß zurückgelegt werden",
+        "Falsch2": "die Preise für Bier gesenkt werden"
+    }
+    ],
+    "Mathe": [
+    {
+        "Frage": "Eine aus ser Mathematik bekannte >fixpunktfreie Permutation< findet statt, wenn ...?",
+        "Richtig": "in einer Gruppe Wichtelgeschenke ausgetauscht werden",
+        "Falsch1" : "ein Dartspieler nacheinander drei Pfeile auf die Scheibe wirft",
+        "Falsch2": "ein Croupier den Roulettekessel bedient"
+    }
+    ],
+    "Kalender": [
+    {
+        "Frage": "Im August 2033 und August 2048 ...?",
+        "Richtig": "sind die nächstmöglichen Landetermine für bemannte Marsmissionen",
+        "Falsch1" : "könnte Meteorologen zufolge im Mittelrheintal Schnee fallen",
+        "Falsch2": "finden zwei Rolling-Stones-Konzerte mit Hologrammtechnik statt"
+    }
+    ],
+    "Schlagzeile": [
+    {
+        "Frage": "Isabel Gose und ihr Freund Lukas Märtens sorgten im Sommer 2022 für Schlagzeilen, weil sie ...?",
+        "Richtig": "innerhalb von 10 Minuten zwei EM-Goldmedallien gewannen",
+        "Falsch1" : "10 Minuten vor Christian Lindner in der selben Kirche heirateten",
+        "Falsch2": "mit ihrem Schlauchboot vier Schweinswale aus der Elbe retteten"
+    }
+    ],
+    "Tierisch": [
+    {
+        "Frage": "Warum können bereits die Babys der Weddellrobbe ungwöhnlich lange tauchen?",
+        "Richtig": "Eisenreiche Muttermilch unterstützt die Sauerstoffbindung im Blut",
+        "Falsch1" : "Der hohe Körperfettanteil ihrer Flossen verringern den Auftrieb",
+        "Falsch2": "Ihre Lungen sind bereits ausgewachsen"
+    }
+    ],
+    "Tierisch 2.0": [
+    {
+        "Frage": "Die Eier welches Laufvogels sind in der Regel dunkelgrün?",
+        "Richtig": "Emu",
+        "Falsch1" : "Kiwi",
+        "Falsch2": "Nandu"
+    }
+    ]
+}
+
